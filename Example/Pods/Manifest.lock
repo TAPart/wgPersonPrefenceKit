@@ -1,0 +1,16 @@
+PODS:
+  - wgPersonPrefenceKit (1)
+
+DEPENDENCIES:
+  - wgPersonPrefenceKit (from `../`)
+
+EXTERNAL SOURCES:
+  wgPersonPrefenceKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  wgPersonPrefenceKit: 0403bba6ea41c5659bc687bc762775cc36581df3
+
+PODFILE CHECKSUM: 76e705c28e6d936d6f3e224e1bf31ecd77804cdc
+
+COCOAPODS: 1.10.0
